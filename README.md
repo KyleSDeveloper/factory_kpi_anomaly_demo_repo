@@ -13,3 +13,5 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 python scripts/generate_charts.py
 ```
+
+![CI](https://github.com/KyleSDeveloper/factory_kpi_anomaly_demo_repo/actions/workflows/charts.yml/badge.svg)
